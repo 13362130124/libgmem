@@ -1,23 +1,22 @@
 # libgmem
 
-#### 介绍
+#### Description
 libgmem is the abstract layer of GMEM(Generalized Memory Management) user-mode interface, which encapsulates some memory characteristics and semantics of GMEM
 
-#### 软件架构
-软件架构说明
+#### Software Architecture
+Software architecture description
 
-
-#### 安装教程
-
-1.  xxxx
-
-#### 使用说明
+#### Installation
 
 1.  xxxx
 
-#### 参与贡献
+#### Instructions
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  xxxx
+
+#### Contribution
+
+1.  Fork the repository
+2.  Create Feat_xxx branch
+3.  Commit your code
+4.  Create Pull Request
